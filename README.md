@@ -1,1 +1,2 @@
 # Cross-Selling-Insurance-Products
+Did exploratory data analysis to identify the patterns in the data to discover insights and build models using various regressions i.e. logistic regression, k-nearest neighbour, naive Bayes, decision trees, support vector machines, random forest and gradient boosted decision trees and then comparative analysis of these models and hyperparameters have choosen. Dataset is downloaded from kaggle.
